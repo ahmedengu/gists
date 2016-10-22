@@ -20,3 +20,5 @@ https://gist.github.com/ahmedengu/c8c3f9a09f498f9b602c856f285c6515
 https://gist.github.com/ahmedengu/8dacaee640b8b3ae419965880d346737
 * GoogleMapsTestApp.java
 https://gist.github.com/ahmedengu/a76a9dc7b8c2426989ee791d59945503
+* ParseLiveQuery.java
+https://gist.github.com/ahmedengu/607266b5caeffbc19c4508b4684b4b7b
