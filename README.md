@@ -28,3 +28,5 @@ https://gist.github.com/ahmedengu/607266b5caeffbc19c4508b4684b4b7b
 https://gist.github.com/ahmedengu/2c641e8fca584418c0f4670755894402
 * colab_xface_vnc.ipynb
 https://gist.github.com/ahmedengu/9c04165fc303aebc8a5a2360234b28bf
+* quantconnect_lean.ipynb
+https://gist.github.com/ahmedengu/dcad96e8aa541fafedf178ff528d3af1
