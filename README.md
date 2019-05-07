@@ -30,3 +30,5 @@ https://gist.github.com/ahmedengu/2c641e8fca584418c0f4670755894402
 https://gist.github.com/ahmedengu/9c04165fc303aebc8a5a2360234b28bf
 * quantconnect_lean.ipynb
 https://gist.github.com/ahmedengu/dcad96e8aa541fafedf178ff528d3af1
+* h2o_flow.ipynb
+https://gist.github.com/ahmedengu/7780e56e7ff42bbab53147e685c07f74
